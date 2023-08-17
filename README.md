@@ -1,3 +1,3 @@
-# Simple Hello World Test
+# Simple Hello World
 
-Just a simple hello world test in Python.
+Just a simple hello world written in Python.
